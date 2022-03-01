@@ -6,7 +6,7 @@
 ### Olá! Eu sou a Carolina! 🥁
 
 
-- Atualmente sou estudante Java no Bootcamp da Generation Brasil
+- Desenvolvedora Java em formação no Bootcamp da Generation Brasil
 - Meus pronomes são: ela/dela/she/her
 - Tenho 27 anos 
 
