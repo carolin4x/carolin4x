@@ -1,3 +1,8 @@
+##
+
+<img align="right" alt="Carol-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
+
+
 ### Olá! Eu sou a Carolina! 🥁
 
 
@@ -15,16 +20,12 @@
 </div>
   
    ##
-  
- <img align="right" alt="Carol-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="45" width="55" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Rafa-Js" height="45" width="55" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
 </div>
   
   ##
-  
- 
  
 <div> 
   <a href = "mailto:britolopes.c@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
