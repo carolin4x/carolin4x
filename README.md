@@ -1,5 +1,6 @@
- <img align="right" alt="Carol-pic" height="145" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
-
+ <img align="right" alt="Carol-pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
+ 
+ 
 ### Olá! Eu sou a Carolina! 🥁
 
 
