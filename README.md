@@ -3,12 +3,14 @@
 <img align="right" alt="Carol-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
 
 
-### Olá! Eu sou a Carolina! 🥁
+### Olá, eu sou a Carolina! 🥁
 
 
-- Desenvolvedora Java em formação no Bootcamp da Generation Brasil
+- Desenvolvedora Java pelo Bootcamp da Generation Brasil
+- Biomédica, mulher preta e LGBTQIA+ em transição para área tech
 - Meus pronomes são: ela/dela/she/her
 - Tenho 27 anos 
+#### Bem vinde ao meu repositório :)
 
 <div align="center">
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolin4x&layout=compact&langs_count=7&theme=dark"/>
