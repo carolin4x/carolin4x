@@ -7,9 +7,9 @@
 
 
 - Desenvolvedora Java pelo Bootcamp da Generation Brasil
-- Biomédica, mulher preta e LGBTQIA+ em transição para área tech
-- Meus pronomes são: ela/dela/she/her
-- Tenho 27 anos 
+- Estudando no Minas Programam
+- Biomédica, mulher preta, ritmista e LGBTQIA+ em transição para área tech
+- Meus pronomes são: ela/dela/she/her 
 #### Bem vinde ao meu repositório :)
 
 <div align="center">
