@@ -6,7 +6,6 @@
 ### Olá, eu sou a Carolina! 🥁
 
 
-- Desenvolvedora Java pelo Bootcamp da Generation Brasil
 - Estudando no Minas Programam
 - Biomédica, mulher preta, ritmista e LGBTQIA+ em transição para área tech
 - Meus pronomes são: ela/dela/she/her 
