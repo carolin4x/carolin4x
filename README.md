@@ -6,23 +6,16 @@
 ### Olá, eu sou a Carolina! 🥁
 
 
-- Estudando no Minas Programam
+- Estudando na ONE - Oracle Next Education
 - Biomédica, mulher preta, ritmista e LGBTQIA+ em transição para área tech
-- Meus pronomes são: ela/dela/she/her 
+- Professora de Robótica Educacional no CIEBP
+- Meus pronomes são: ela/she 
 #### Bem vinde ao meu repositório :)
 
 <div align="center">
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolin4x&layout=compact&langs_count=7&theme=dark"/>
   
    ##
-  
-  ##### Aqui minhas hard skills em desenvolvimento: 
-<div>
-  <img align="center" alt="Rafa-Js" height="45" width="55" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Rafa-Js" height="45" width="55" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
-  <img align="center" alt="Rafa-Js" height="45" width="55" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
-</div>
-  
   
   ##
  
