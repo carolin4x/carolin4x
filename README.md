@@ -5,8 +5,6 @@
 
 ### Olá, eu sou a Carolina! 🥁
 
-
-- Estudando na ONE - Oracle Next Education
 - Biomédica, mulher preta, ritmista e LGBTQIA+ em transição para área tech
 - Professora de Robótica Educacional no CIEBP
 - Meus pronomes são: ela/she 
