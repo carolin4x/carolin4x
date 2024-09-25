@@ -5,9 +5,9 @@
 
 ### Olá, eu sou a Carolina! 🥁
 
-- Biomédica, mulher preta, ritmista e LGBTQIA+ em transição para área tech
+- Mulher preta, ritmista e LGBTQIA+ em transição para área tech
 - Professora de Robótica Educacional no CIEBP
-#### Bem vinde ao meu repositório :)
+#### Bem vindos ao meu repositório :)
 
 <div align="center">
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolin4x&layout=compact&langs_count=7&theme=dark"/>
