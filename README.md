@@ -1,13 +1,12 @@
 ##
 
-<img align="right" alt="Carol-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
 
 
-### Olá, eu sou a Carolina! 🥁
+## Oi, eu sou a Carol! 🥁
 
 - Mulher preta, ritmista e LGBTQIA+ em transição para área tech
 - Professora de Robótica Educacional no CIEBP
-#### Bem vindos ao meu repositório :)
+#### 
 
 <div align="center">
   <img height="138em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolin4x&layout=compact&langs_count=7&theme=dark"/>
@@ -27,6 +26,9 @@
  
   
 <!--
+
+<img align="right" alt="Carol-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758145230179401768/948330329612111882/unknown.png">
+
 **carolin4x/carolin4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
